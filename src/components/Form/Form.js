@@ -159,7 +159,7 @@ export default function Form() {
                         <th>Email.</th>
                         <th>Password.</th>
                         <th>Date of Birth.</th>
-                        <th>Gender.</th>
+                        <th>Gender</th>
                         {
                             allUser.length !== 0 ? <th>Actions</th> : null
                         }
