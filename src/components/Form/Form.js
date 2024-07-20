@@ -154,7 +154,7 @@ export default function Form() {
                 <thead>
                     <tr>
                     <th>{<FaAffiliatetheme/>}</th>
-                        <th>First Name.</th>
+                        <th>First Name</th>
                         <th>Last Name.</th>
                         <th>Email.</th>
                         <th>Password.</th>
