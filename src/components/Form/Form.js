@@ -155,10 +155,10 @@ export default function Form() {
                     <tr>
                     <th>{<FaAffiliatetheme/>}</th>
                         <th>First Name</th>
-                        <th>Last Name</th>
-                        <th>Email</th>
-                        <th>Password</th>
-                        <th>Date of Birth</th>
+                        <th>Last Name.</th>
+                        <th>Email.</th>
+                        <th>Password.</th>
+                        <th>Date of Birth.</th>
                         <th>Gender</th>
                         {
                             allUser.length !== 0 ? <th>Actions</th> : null
