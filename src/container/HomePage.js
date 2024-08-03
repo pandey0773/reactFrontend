@@ -10,7 +10,7 @@ function HomePage() {
     
     <Form/>
     <div>
-         <img src="paper_2.jpg"></img>
+         <img src="paper_2.jpg" alt=""></img>
      </div>
     </div>
     
