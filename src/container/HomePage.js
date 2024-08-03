@@ -4,7 +4,9 @@ function HomePage() {
     return ( <>
     <>
     <div className="form_container">
-    <div>Welcome to home page you can fill your details here</div>
+    <div>Welcome to home page you can fill your details here.
+        <p>Basic form</p>
+    </div>
     
     <Form/>
     <div>
